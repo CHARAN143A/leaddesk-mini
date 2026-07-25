@@ -279,13 +279,13 @@ The project is deployed on **Vercel**.
 
 ## Admin Login
 
-![Landing Page](screenshots/LD-screenshot-2.png)
+![Admin Login](screenshots/LD-screenshot-2.png)
 
 ---
 
 ## Admin Dashboard
 
-![Landing Page](screenshots/LD-screenshot-3.png)
+![Admin Dashboard](screenshots/LD-screenshot-3.png)
 
 ---
 
